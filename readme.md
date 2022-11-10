@@ -4,4 +4,4 @@
 - [websocket]("github.com/gorilla/websocket")
 
 * App ini dibangun menggunakan bahasa pemgrograman golang
-download file reconnect websocket di ("https://github.com/joewalnes/reconnecting-websocket")
+download file [reconnect-websocket]("https://github.com/joewalnes/reconnecting-websocket")
